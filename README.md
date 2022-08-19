@@ -32,7 +32,6 @@
     <img height="30" width="30" src="https://img.icons8.com/color/344/gmail-new.png">
 </p>
 
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
