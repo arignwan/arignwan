@@ -50,7 +50,7 @@
     </a>
     <!-- react -->
     <a href="" targe="_blank">
-        <img height="30" width="30" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg>
+        <img height="30" width="30" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg">
     </a>
 </p>
 
