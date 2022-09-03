@@ -22,7 +22,7 @@
     <a href="https://instagram.com/arignwan_" target="_blank">
     <img height="30" width="30" src="https://img.icons8.com/fluency/344/instagram-new.png">
     <!-- twitter -->
-    <a href="https://twiiter.com/arignwan" target="_blank">
+    <a href="https://twitter.com/arignwan" target="_blank">
     <img height="30" width="30" src="https://img.icons8.com/fluency/344/twitter.png">
     <!-- linkedin -->
     <a href="" target="_blank">
