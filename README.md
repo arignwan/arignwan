@@ -19,16 +19,16 @@
 <h3 align="left">Connect with me :</h3>
 <p align="left">
     <!-- instagram -->
-    <a href="" target="_blank">
+    <a href="https://instagram.com/arignwan_" target="_blank">
     <img height="30" width="30" src="https://img.icons8.com/fluency/344/instagram-new.png">
     <!-- twitter -->
-    <a href="" target="_blank">
+    <a href="https://twiiter.com/arignwan" target="_blank">
     <img height="30" width="30" src="https://img.icons8.com/fluency/344/twitter.png">
     <!-- linkedin -->
     <a href="" target="_blank">
     <img height="30" width="30" src="https://img.icons8.com/color/344/linkedin-circled.png">
     <!-- mail -->
-    <a href="" target="_blank">
+    <a href="mailto:arii.gunawan653@gmail.com" target="_blank">
     <img height="30" width="30" src="https://img.icons8.com/color/344/gmail-new.png">
 </p>
 
@@ -36,19 +36,19 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <!-- HTML -->
-    <a href="" targe="_blank">
+    <a href="https://www.w3schools.com/html/" targe="_blank">
         <img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
     </a>
     <!-- css -->
-    <a href="" targe="_blank">
+    <a href="https://www.w3schools.com/css/" targe="_blank">
         <img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
     </a>
     <!-- js -->
-    <a href="" targe="_blank">
+    <a href="https://www.javascript.com/" targe="_blank">
         <img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     </a>
     <!-- react -->
-    <a href="" targe="_blank">
+    <a href="https://reactjs.org/" targe="_blank">
         <img height="30" width="30" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg">
     </a>
 </p>
